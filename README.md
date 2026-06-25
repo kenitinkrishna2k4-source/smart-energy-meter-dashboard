@@ -85,6 +85,20 @@ The program allows you to:
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Main Menu](images/Menu.png)
+
+### View All Readings
+![Readings](images/Readings.png)
+
+### Consumption Graph
+![Graph](images/Graph.png)
+
+### Generated Report
+![Report](images/Report.png)
+
 ## 👨‍💻 Developed By
 
 **Nitin Krishna**
