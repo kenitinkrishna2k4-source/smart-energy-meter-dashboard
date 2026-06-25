@@ -37,11 +37,12 @@ The Smart Energy Meter Dashboard helps users store electricity readings, calcula
 
 ```
 smart-energy-meter-dashboard/
-│
-├── main.py
-├── readings.csv
-├── report.txt
-└── README.md
+
+*  main.py -  Main Python program
+*  readings.csv  - Stores energy meter readings
+*  report.txt  - Generated bill report
+*  README.md  - Project documentation
+*  images/ -  Screenshots of the application
 ```
 
 ---
