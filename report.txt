@@ -1,0 +1,9 @@
+SMART ENERGY METER REPORT
+=========================
+
+Total Consumption : 110.0 kWh
+Total Bill        : Rs. 935.0
+Highest Reading   : 45.0 kWh
+Lowest Reading    : 30.0 kWh
+Average Reading   : 36.67 kWh
+Consumption Level : High
